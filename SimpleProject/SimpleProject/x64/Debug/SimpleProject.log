@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\malwareoperator\Desktop\SimpleProject\SimpleProject\main.cpp(43,20): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+C:\Users\malwareoperator\Desktop\SimpleProject\SimpleProject\main.cpp(46,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+C:\Users\malwareoperator\Desktop\SimpleProject\SimpleProject\main.cpp(46,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'HANDLE'
+  SimpleProject.vcxproj -> C:\Users\malwareoperator\Desktop\SimpleProject\x64\Debug\SimpleProject.exe
